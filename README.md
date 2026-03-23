@@ -1,3 +1,9 @@
+---
+
+### Repository archived in favor of the GUI version on [Jean](jean.build)
+
+---
+
 # jean - AI-Powered Git Worktree TUI with Claude Code Support
 
 ## What is jean?
